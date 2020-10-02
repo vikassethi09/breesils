@@ -3,9 +3,15 @@ body{
 	color:black;
 }
 a{
-	color:blue;
+	color:red;
 }
 a:hover{
 	color:red;
-	background-color: violet;
+	background-color: yellow;
+}
+a{
+	 font-weight: 600;
+    line-height: 1.3;
+	margin-top: 1.3em;
+	border: 10px solid rgba(0, 0, 0, 0.12);
 }
